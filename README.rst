@@ -20,6 +20,8 @@ This version has been tested with :
 	* Slurm 14.11.5-14.11.8, Cython 0.23.4 and Python 2.6.1
 	* Slurm 14.11.5-14.11.8, Cython 0.22.1 and Python 2.7.4
 	* Slurm 14.11.5-14.11.8, Cython 0.23.1 and Python 2.7.4
+	* Slurm 14.11.5-14.11.9, Cython 0.24 and Python 2.7.10
+
 
 * [Slurm] http://www.schedmd.com
 * [Python] http://www.python.org
